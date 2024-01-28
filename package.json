@@ -1,0 +1,15 @@
+{
+  "name": "zond-web3-demo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "JP Lomas <jp@theqrl.org> (https://theqrl.org)",
+  "license": "MIT",
+  "dependencies": {
+    "@theqrl/web3": "^0.2.1",
+    "dotenv": "^16.4.1"
+  }
+}
